@@ -1,7 +1,7 @@
 # Video-Text Data Processing Pipeline
 >Automatic T2V HQ Data Curation Pipeline v1.0 MindSpore version.
 >
-<img width="850" alt="data_pipeline_demo" src="https://github.com/user-attachments/assets/a7828e69-59b9-49f2-b762-a50ac5bd86a1" />
+<img width="850" alt="data-pipeline-demo" src="https://github.com/user-attachments/assets/ed82c2dd-7ec0-4821-8260-52a503585442" />
 
 ## Overview
 This pipeline is designed to gather video-text pairs to train video generation models
